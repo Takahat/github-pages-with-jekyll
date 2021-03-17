@@ -1,11 +1,11 @@
 theme: minima
-title: The way to be hubber
+title: The way to be the hubber
 author: takahat
-email: your-email@domain.com
+
 description: > # this means to ignore newlines until "baseurl:"
-  I just started to learn how to use GitHub. This is a test>
+I just started to learn how to use GitHub. This is a test>
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: N/A # DO NOT include the @ character, or else the build will fail!
 github_username:  takahat # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
