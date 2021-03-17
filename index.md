@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Welcome to my world
 
-I'm glad you are here. I plan to talk about ...
+I'm going to learn how to use GitHub :octocat:
+Happy to learn 📝
